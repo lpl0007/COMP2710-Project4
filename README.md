@@ -127,3 +127,9 @@ You must implement a unit test driver for each function implemented in your prog
 
 ## Integration Testing
 Integration testing (a.k.a., Integration and Testing) is the phase in software testing in which individual software modules are combined and tested as a group.
+
+## Grade
+95/100
+
+### TA Comments
++ Three trivia questions should be asked during your trivia game. -5
